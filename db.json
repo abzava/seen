@@ -1,8 +1,8 @@
 {
-"address": [
-{
-"url": "https://vpn.ao1testb.com//api_post.php",
-"get_url": "https://vpn.ao1testb.com/api_get.php"
-}
-]
+  "address": [
+    {
+    "url": "https://vpn.ao1testb.com//api_post.php",
+    "get_url": "https://vpn.ao1testb.com/api_get.php"
+    }
+  ]
 }
